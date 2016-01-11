@@ -454,3 +454,15 @@ footer .footer-below {
     transform: translateZ(0);
     -webkit-transform: translateZ(0);
 }
+
+.circular {
+  width: 200px;
+  height:200px;
+  border-radius:50%;
+}
+
+.circular img {
+  border-radius:50%;
+  transition: transform 0.5s ease;
+  transform: scale(0.8);
+}
