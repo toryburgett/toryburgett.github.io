@@ -1,4 +1,4 @@
-Freelancer Jekyll theme
+Tory Burgett
 =========================
 
 Jekyll theme based on [Freelancer bootstrap theme ](http://startbootstrap.com/templates/freelancer/)
