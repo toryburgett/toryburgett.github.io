@@ -478,8 +478,9 @@ footer .footer-below {
   transform: scale(0.8);
 }
 
-.skills{
-  border: 2px solid white;
+.skillsHere{
+  border-bottom: 2px solid #{{ site.color.secondary-dark }};
   border-radius: 5px;
-  margin: 5px;
+  margin: 10px;
+  padding-top: 10px;
 }
